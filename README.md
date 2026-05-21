@@ -12,3 +12,6 @@ Uploader ces fichiers dans le repo GitHub `orvia`, commit, puis Vercel redéploi
 
 
 Update: added ORVIA Signature Concepts portfolio mockups.
+
+
+Update: added FR/EN floating language toggle and enforced contact@orvia.agency.
