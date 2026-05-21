@@ -15,3 +15,6 @@ Update: added ORVIA Signature Concepts portfolio mockups.
 
 
 Update: added FR/EN floating language toggle and enforced contact@orvia.agency.
+
+
+Update: every visible website text now switches between French and English. Correct email enforced: contact@orvia.agency.
